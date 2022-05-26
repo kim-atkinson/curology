@@ -1,5 +1,5 @@
 # Curology Receipt
 
-Order confirmation receipt for one package of Curology’s skincare system. The receipt ensures the thank you message, order number, date, and billing information are clearly visible for the customer.
+Order confirmation receipt for one package of Curology’s skincare system. The receipt includes a thank you message, order number, date, and billing information.
 
 Tech Stack: Figma, HTML, CSS
